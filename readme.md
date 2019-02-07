@@ -1,6 +1,6 @@
 # Geocom Map Package Export Tool                               
 
-The tool exports map packages from all .mxd in a given directory. Since it can be called parametrized it is well suited for updating map packages periodicaly using the windows task scheduler.
+The ¨script exports map packages from all .mxd in a given directory. Since it can be called parametrized it is well suited for updating map packages periodicaly using the windows task scheduler.
 
 For more information please contact: support@geocom.ch. 
 
@@ -20,6 +20,7 @@ In order to use the tool you need:
 
 1. Create a folder for the script.
 2. Download and save the tool into the folder.
+3. Prepare folder structure, example can be found below.
 
 
 ------
@@ -77,4 +78,4 @@ Parameter | Description
 ------
 ## Known issues
 
-None so far.
+None.
