@@ -13,6 +13,7 @@ For more information please contact: support@geocom.ch.
 In order to use the tool you need: 
 - An installation of Python 2.7 
 - An installation of arcpy (preinstalled, if you have an ArcMap installed)
+- ArcGIS Desktop 10.3.1 - 10.6.1
 
 
 ------
@@ -37,9 +38,13 @@ In order to use the tool you need:
 #### Examples
 
 **Folder structure**
+
 Scripts folder: C:\python_scripts
+
 Input folder:   C:\mxds_to_export
+
 output folder:  C:\latest_mpks
+
 log folder:     C:\export_logs
 
 **Minimal input**
